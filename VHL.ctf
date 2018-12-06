@@ -1,0 +1,8 @@
+VHL	NM_000551	1						tile	3	10183291	10183318	VHL_chr3_10183291_27_+_A1_GSP1	tggaaatacagtaacgagttggcctag	1.5	true	10183398	10183418	VHL_chr3_10183398_20_+_A1_GSP2	agcgcgttccatcctctacc	1.0	true	SNV,CNV		
+VHL	NM_000551	1						tile	3	10183513	10183533	VHL_chr3_10183513_20_+_A1_GSP1	gtctggatcgcggagggaat	1.0	true	10183515	10183535	VHL_chr3_10183515_20_+_A1_GSP2	ctggatcgcggagggaatgc	1.0	true	SNV,CNV		
+VHL	NM_000551	1						tile	5	10183795	10183815	VHL_chr3_10183795_20_-_A1_GSP1	ggctcgccgtcgaagttgag	1.5	true	10183788	10183810	VHL_chr3_10183788_22_-_A1_GSP2	gccgtcgaagttgagccatacg	1.0	true	SNV		
+VHL	NM_000551	1						tile	5	10183909	10183929	VHL_chr3_10183909_20_-_A1_GSP1	ggggcttcagaccgtgctat	1.0	true	10183905	10183927	VHL_chr3_10183905_22_-_A1_GSP2	ggcttcagaccgtgctatcgtc	1.0	true	SNV		
+VHL	NM_000551	2						tile	3	10188161	10188186	VHL_chr3_10188161_25_+_A1_GSP1	gtgtggctctttaacaacctttgct	1.0	true	10188165	10188191	VHL_chr3_10188165_26_+_A1_GSP2	ggctctttaacaacctttgcttgtcc	1.0	true	SNV		
+VHL	NM_000551	2						tile	5	10188353	10188383	VHL_chr3_10188353_30_-_A1_GSP1	caagtggtctatcctgtacttaccacaaca	1.0	true	10188349	10188378	VHL_chr3_10188349_29_-_A1_GSP2	ggtctatcctgtacttaccacaacaacct	1.0	true	SNV,CNV		
+VHL	NM_000551	3						tile	3	10191392	10191415	VHL_chr3_10191392_23_+_A1_GSP1	ttgttggcaaagcctcttgttcg	1.5	true	10191411	10191438	VHL_chr3_10191411_27_+_A1_GSP2	ttcgttccttgtactgagaccctagtc	1.0	true	SNV,CNV		
+VHL	NM_000551	3						tile	5	10191721	10191751	VHL_chr3_10191721_30_-_A1_GSP1	gacactttgaaactaaggaaggaaccagtc	1.5	true	10191691	10191722	VHL_chr3_10191691_31_-_A1_GSP2	cctgtatctagatcaagactcatcagtacca	1.0	true	SNV,CNV		

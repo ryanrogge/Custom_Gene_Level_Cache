@@ -1,0 +1,10 @@
+FOXL2	NM_023067	1						tile	3	138664493	138664513	FOXL2_chr3_138664493_20_-_A1_GSP1	ccgagctcgccatgatgcat	3.0	true	138664488	138664509	FOXL2_chr3_138664488_21_-_A1_GSP2	gctcgccatgatgcattgctc	1.0	true	SNV		
+FOXL2	NM_023067	1						tile	3	138664786	138664806	FOXL2_chr3_138664786_20_-_A1_GSP1	ctcgtacgggccgtacacac	3.0	true	138664773	138664794	FOXL2_chr3_138664773_21_-_A1_GSP2	gtacacacgcgtgcagagcat	1.0	true	SNV		
+FOXL2	NM_023067	1						tile	3	138664960	138664981	FOXL2_chr3_138664960_21_-_A1_GSP1	tgcagtctggcttcctcaaca	3.0	true	138664955	138664978	FOXL2_chr3_138664955_23_-_A1_GSP2	agtctggcttcctcaacaactcg	1.0	true	SNV		
+FOXL2	NM_023067	1						tile	3	138665317	138665337	FOXL2_chr3_138665317_20_-_A1_GSP1	gctgtccggcatctaccagt	2.0	true	138665303	138665329	FOXL2_chr3_138665303_26_-_A1_GSP2	gcatctaccagtacatcatcgcgaag	1.0	true	SNV		
+FOXL2	NM_023067	1						tile	3	138665649	138665675	FOXL2_chr3_138665649_26_-_A1_GSP1	ccagaagtttgagacttggccgtaag	2.0	true	138665625	138665645	FOXL2_chr3_138665625_20_-_A1_GSP2	ctcgtgcgccccaactcttt	1.0	true	SNV		
+FOXL2	NM_023067	1						tile	5	138664387	138664407	FOXL2_chr3_138664387_20_+_A1_GSP1	cgtccctgcatcctcgcatc	3.0	true	138664393	138664413	FOXL2_chr3_138664393_20_+_A1_GSP2	tgcatcctcgcatccgtctg	1.0	true	SNV		
+FOXL2	NM_023067	1						tile	5	138664436	138664456	FOXL2_chr3_138664436_20_+_A1_GSP1	gagatcgaggcgcgaatgca	3.0	true	138664466	138664487	FOXL2_chr3_138664466_21_+_A1_GSP2	cttgctgtcgtggtcccagta	1.0	true	SNV		
+FOXL2	NM_023067	1						tile	5	138664729	138664751	FOXL2_chr3_138664729_22_+_A1_GSP1	ctcccaggccattgtacgagtt	3.0	true	138664732	138664757	FOXL2_chr3_138664732_25_+_A1_GSP2	ccaggccattgtacgagttcactac	1.0	true	SNV		
+FOXL2	NM_023067	1						tile	5	138664903	138664924	FOXL2_chr3_138664903_21_+_A1_GSP1	ccatctggcaggaggcatagg	3.0	true	138664909	138664929	FOXL2_chr3_138664909_20_+_A1_GSP2	ggcaggaggcatagggcatg	1.0	true	SNV		
+FOXL2	NM_023067	1						tile	5	138665251	138665273	FOXL2_chr3_138665251_22_+_A1_GSP1	tgtggcggatgctattttgcca	3.0	true	138665271	138665299	FOXL2_chr3_138665271_28_+_A1_GSP2	cagcccttcttattcttctcgtagaacg	1.0	true	SNV		

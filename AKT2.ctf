@@ -1,0 +1,28 @@
+AKT2			chr19	40742349	40742350	+	AKT2	tile	5	40742383	40742404	AKT2_chr19_40742383_21_-_A1_GSP1	gcatgggagggttgatgtcca	1.0	true	40742355	40742376	AKT2_chr19_40742355_21_-_A1_GSP2	cgggcatctttccctggaagg	1.0	true	SNV,CNV		
+AKT2			chr19	40748059	40748060	+	AKT2_l151	tile	5	40748069	40748090	AKT2_chr19_40748069_21_-_A1_GSP1	gcctaagccgtttggcaacag	1.0	true	40748065	40748086	AKT2_chr19_40748065_21_-_A1_GSP2	aagccgtttggcaacagtgtc	1.0	true	SNV,CNV		
+AKT2	NM_001626	10						tile	3	40742383	40742404	AKT2_chr19_40742383_21_-_A1_GSP1	gcatgggagggttgatgtcca	1.0	true	40742355	40742376	AKT2_chr19_40742355_21_-_A1_GSP2	cgggcatctttccctggaagg	1.0	true	SNV		
+AKT2	NM_001626	10						tile	5	40742122	40742143	AKT2_chr19_40742122_21_+_A1_GSP1	ccttggcctcacacgttccta	1.0	true	40742124	40742145	AKT2_chr19_40742124_21_+_A1_GSP2	ttggcctcacacgttcctacc	1.0	true	SNV		
+AKT2	NM_001626	11						tile	3	40742082	40742104	AKT2_chr19_40742082_22_-_A1_GSP1	cctgtgtgtttccagcccagat	3.0	true	40742058	40742078	AKT2_chr19_40742058_20_-_A1_GSP2	tgagggcaggactgtgatgc	1.0	true	SNV		
+AKT2	NM_001626	11						tile	5	40741644	40741668	AKT2_chr19_40741644_24_+_A1_GSP1	taagtgccactgtggacgttttca	1.0	true	40741702	40741722	AKT2_chr19_40741702_20_+_A1_GSP2	aagcgagcacccttgtggac	1.0	true	SNV		
+AKT2	NM_001626	12						tile	3	40741337	40741366	AKT2_chr19_40741337_29_-_A1_GSP1	ggtcaagacagaatcattaagggccatac	1.0	true	40741334	40741361	AKT2_chr19_40741334_27_-_A1_GSP2	agacagaatcattaagggccatacagg	1.0	true	SNV		
+AKT2	NM_001626	12						tile	5	40741091	40741111	AKT2_chr19_40741091_20_+_A1_GSP1	gccaggaggcctcaaccaag	1.0	true	40741097	40741117	AKT2_chr19_40741097_20_+_A1_GSP2	aggcctcaaccaaggtcacc	1.0	true	SNV		
+AKT2	NM_001626	13						tile	3	40741337	40741366	AKT2_chr19_40741337_29_-_A1_GSP1	ggtcaagacagaatcattaagggccatac	1.0	true	40741334	40741361	AKT2_chr19_40741334_27_-_A1_GSP2	agacagaatcattaagggccatacagg	1.0	true	SNV		
+AKT2	NM_001626	13						tile	5	40740873	40740900	AKT2_chr19_40740873_27_+_A1_GSP1	tgagaagtgagttaagagcagatccca	2.0	true	40740879	40740906	AKT2_chr19_40740879_27_+_A1_GSP2	gtgagttaagagcagatcccatccctc	1.0	true	SNV		
+AKT2	NM_001626	14						tile	3	40739981	40740001	AKT2_chr19_40739981_20_-_A1_GSP1	gcctccattgcggagggatg	1.0	true	40739885	40739905	AKT2_chr19_40739885_20_-_A1_GSP2	aggccctctcctgactggtc	1.0	true	SNV		
+AKT2	NM_001626	14						tile	5	40739547	40739570	AKT2_chr19_40739547_23_+_A1_GSP1	aggtggagtcttccaaatgcgag	1.0	true	40739549	40739573	AKT2_chr19_40739549_24_+_A1_GSP2	gtggagtcttccaaatgcgagtct	1.0	true	SNV		
+AKT2	NM_001626	2						tile	3	40771193	40771213	AKT2_chr19_40771193_20_-_A1_GSP1	gctgtcccgagctaggtgac	1.0	true	40771191	40771212	AKT2_chr19_40771191_21_-_A1_GSP2	ctgtcccgagctaggtgacag	1.0	true	SNV		
+AKT2	NM_001626	2						tile	5	40771025	40771047	AKT2_chr19_40771025_22_+_A1_GSP1	tcctcaggctggtaagaccctc	1.0	true	40771093	40771117	AKT2_chr19_40771093_24_+_A1_GSP2	gagaaagaatctggcgggcaaaag	1.0	true	SNV		
+AKT2	NM_001626	3						tile	3	40762995	40763018	AKT2_chr19_40762995_23_-_A1_GSP1	tgggacatcactcaaccttgtcc	1.0	true	40762990	40763016	AKT2_chr19_40762990_26_-_A1_GSP2	ggacatcactcaaccttgtcctaacc	1.0	true	SNV		
+AKT2	NM_001626	3						tile	5	40762786	40762809	AKT2_chr19_40762786_23_+_A1_GSP1	catcctgtgagcaccagaacact	1.0	true	40762803	40762826	AKT2_chr19_40762803_23_+_A1_GSP2	aacactgacccactcatcccaag	1.0	true	SNV		
+AKT2	NM_001626	4						tile	3	40761293	40761315	AKT2_chr19_40761293_22_-_A1_GSP1	gggctgtctcagtccctagagt	1.0	true	40761212	40761232	AKT2_chr19_40761212_20_-_A1_GSP2	gcaggctagcagggctatcc	1.0	true	SNV		
+AKT2	NM_001626	4						tile	5	40760979	40761005	AKT2_chr19_40760979_26_+_A1_GSP1	agggaaaatctctccagctgtacctt	1.0	true	40761015	40761036	AKT2_chr19_40761015_21_+_A1_GSP2	accaggcttgctccctctcaa	1.0	true	SNV		
+AKT2	NM_001626	5						tile	3	40748717	40748741	AKT2_chr19_40748717_24_-_A1_GSP1	tggttctgacagatcttgcccaaa	1.0	true	40748648	40748669	AKT2_chr19_40748648_21_-_A1_GSP2	ggaggtggcactcagctgttc	1.0	true	SNV		
+AKT2	NM_001626	5						tile	5	40748346	40748373	AKT2_chr19_40748346_27_+_A1_GSP1	cctgaactgtgttatggaaaccaagga	1.0	true	40748353	40748379	AKT2_chr19_40748353_26_+_A1_GSP2	tgtgttatggaaaccaaggagagcag	1.0	true	SNV		
+AKT2	NM_001626	6						tile	3	40748069	40748090	AKT2_chr19_40748069_21_-_A1_GSP1	gcctaagccgtttggcaacag	1.0	true	40748065	40748086	AKT2_chr19_40748065_21_-_A1_GSP2	aagccgtttggcaacagtgtc	1.0	true	SNV		
+AKT2	NM_001626	6						tile	5	40747568	40747589	AKT2_chr19_40747568_21_+_A1_GSP1	ccagcctcccttgacagtacc	1.0	true	40747630	40747651	AKT2_chr19_40747630_21_+_A1_GSP2	cccagcccctaacatagggtg	1.0	true	SNV		
+AKT2	NM_001626	7						tile	3	40746110	40746135	AKT2_chr19_40746110_25_-_A1_GSP1	ttctgcatttatggctgggaatgga	1.0	true	40746089	40746114	AKT2_chr19_40746089_25_-_A1_GSP2	tggaattgcatttcacaaggccttg	1.0	true	SNV		
+AKT2	NM_001626	7						tile	5	40745787	40745812	AKT2_chr19_40745787_25_+_A1_GSP1	accacatgtcttggttcggatgact	1.0	true	40745864	40745890	AKT2_chr19_40745864_26_+_A1_GSP2	tgctttgtaccagaagattagggctc	1.0	true	SNV		
+AKT2	NM_001626	8						tile	3	40745080	40745105	AKT2_chr19_40745080_25_-_A1_GSP1	acaagatggttcagcatgtaaccct	1.0	true	40745009	40745032	AKT2_chr19_40745009_23_-_A1_GSP2	cggtatgtgaaccccatatggct	1.0	true	SNV		
+AKT2	NM_001626	8						tile	5	40744777	40744798	AKT2_chr19_40744777_21_+_A1_GSP1	cccagagggcaaagtcaaggc	1.0	true	40744778	40744800	AKT2_chr19_40744778_22_+_A1_GSP2	ccagagggcaaagtcaaggcag	1.0	true	SNV		
+AKT2	NM_001626	9						tile	3	40744116	40744141	AKT2_chr19_40744116_25_-_A1_GSP1	cttgattggtccctctagctgtcac	1.0	true	40744081	40744108	AKT2_chr19_40744081_27_-_A1_GSP2	tcatgatacaggtgtcaccacatcact	1.0	true	SNV		
+AKT2	NM_001626	9						tile	5	40743805	40743828	AKT2_chr19_40743805_23_+_A1_GSP1	aacttccccagtgtgagtcccat	1.0	true	40743818	40743839	AKT2_chr19_40743818_21_+_A1_GSP2	tgagtcccatgtggtgtgcat	1.0	true	SNV		

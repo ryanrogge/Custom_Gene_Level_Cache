@@ -1,0 +1,4 @@
+SMAD2	NM_005901	7						tile	3	45377734	45377769	SMAD2_chr18_45377734_35_-_A1_GSP1	agctagttttatgattacttgatcagaagttctgg	1.0	true	45377732	45377769	SMAD2_chr18_45377732_37_-_A1_GSP2	agctagttttatgattacttgatcagaagttctggaa	1.0	true	SNV		
+SMAD2	NM_005901	7						tile	3	45377920	45377948	SMAD2_chr18_45377920_28_-_A1_GSP1	atctttgggaagatgaactgttgggcta	1.0	true	45377898	45377924	SMAD2_chr18_45377898_26_-_A1_GSP2	gctagaagccaaaactgttgcacctt	1.0	true	SNV		
+SMAD2	NM_005901	7						tile	5	45377509	45377546	SMAD2_chr18_45377509_37_+_A1_GSP1	ccacatacataattatttggctattcattaggatccc	3.0	true	45377527	45377559	SMAD2_chr18_45377527_32_+_A1_GSP2	ggctattcattaggatccctttctcggatata	1.0	true	SNV		
+SMAD2	NM_005901	7						tile	5	45377624	45377652	SMAD2_chr18_45377624_28_+_A1_GSP1	ggaacatatgtgcaacttacccaagcta	1.0	true	45377644	45377672	SMAD2_chr18_45377644_28_+_A1_GSP2	ccaagctatgattaacaggggaaagagt	1.0	true	SNV		

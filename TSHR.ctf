@@ -1,0 +1,2 @@
+TSHR	NM_000369	9					TSHR_NM_000369_exon_009_TILE_Zs6ih8bZ	tile	3	81605934	81605958	TSHR_chr14_81605934_24_+_A1_GSP1	cctcaggcctgtttgagtttctgg	1.0	true	81605980	81606001	TSHR_chr14_81605980_21_+_A1_GSP2	tgctcactgcctctctgcatt	1.0	true	SNV		
+TSHR	NM_000369	9					TSHR_NM_000369_exon_009_TILE_Zs6ih8bZ	tile	5	81606280	81606306	TSHR_chr14_81606280_26_-_A1_GSP1	gttttcaaaccaggaagcatcttccc	1.0	true	81606234	81606260	TSHR_chr14_81606234_26_-_A1_GSP2	cacttccaccaaggtcttttgtcact	1.0	true	SNV		

@@ -1,0 +1,12 @@
+CDK4	NM_000075	2						tile	3	58145541	58145569	CDK4_chr12_58145541_28_-_A1_GSP1	ccatcctaactctgtaagcgacttttgg	1.0	true	58145539	58145566	CDK4_chr12_58145539_27_-_A1_GSP2	tcctaactctgtaagcgacttttggtg	1.0	true	SNV,CNV		
+CDK4	NM_000075	2						tile	5	58145214	58145237	CDK4_chr12_58145214_23_+_A1_GSP1	atcacaccccacctataggctgt	1.0	true	58145226	58145254	CDK4_chr12_58145226_28_+_A1_GSP2	ctataggctgtcttttccctttactccc	1.0	true	SNV		
+CDK4	NM_000075	3						tile	3	58145222	58145248	CDK4_chr12_58145222_26_-_A1_GSP1	aaagggaaaagacagcctataggtgg	1.0	true	58145166	58145193	CDK4_chr12_58145166_27_-_A1_GSP2	cctgaggaaataatgagaggccatgtt	1.0	true	SNV,CNV		
+CDK4	NM_000075	3						tile	5	58144934	58144962	CDK4_chr12_58144934_28_+_A1_GSP1	aggttctactacaaaggtcccaatccac	1.0	true	58144937	58144965	CDK4_chr12_58144937_28_+_A1_GSP2	ttctactacaaaggtcccaatccacctc	1.0	true	SNV		
+CDK4	NM_000075	4						tile	3	58144896	58144920	CDK4_chr12_58144896_24_-_A1_GSP1	tatggtgcctagtttccagtgcat	1.0	true	58144886	58144910	CDK4_chr12_58144886_24_-_A1_GSP2	agtttccagtgcatctgtacctcc	1.0	true	SNV		
+CDK4	NM_000075	4						tile	5	58144627	58144655	CDK4_chr12_58144627_28_+_A1_GSP1	catgacttctcaattgctacgggcaatc	1.0	true	58144639	58144663	CDK4_chr12_58144639_24_+_A1_GSP2	attgctacgggcaatcactctcct	1.0	true	SNV		
+CDK4	NM_000075	5						tile	3	58144605	58144631	CDK4_chr12_58144605_26_-_A1_GSP1	catgtgcttcatgtgttcagtcaagc	1.0	true	58144579	58144606	CDK4_chr12_58144579_27_-_A1_GSP2	caagttgtgtttcatggtaacccatgg	1.0	true	SNV		
+CDK4	NM_000075	5						tile	5	58144393	58144419	CDK4_chr12_58144393_26_+_A1_GSP1	cgatttggggaattcaaggtagtcca	1.0	true	58144400	58144427	CDK4_chr12_58144400_27_+_A1_GSP2	gggaattcaaggtagtccagggtatgt	1.0	true	SNV,CNV		
+CDK4	NM_000075	6						tile	3	58143348	58143380	CDK4_chr12_58143348_32_-_A1_GSP1	ccctatacttcctattttgagccactaagcag	1.0	true	58143343	58143371	CDK4_chr12_58143343_28_-_A1_GSP2	tcctattttgagccactaagcagtaacc	1.0	true	SNV		
+CDK4	NM_000075	6						tile	5	58143156	58143176	CDK4_chr12_58143156_20_+_A1_GSP1	gcagagccagttgccatcct	1.0	true	58143174	58143197	CDK4_chr12_58143174_23_+_A1_GSP2	ctgggttcagcagaaagaggact	1.0	true	SNV		
+CDK4	NM_000075	7						tile	3	58143116	58143137	CDK4_chr12_58143116_21_-_A1_GSP1	aggaccctcctgaccagagtt	1.0	true	58143114	58143136	CDK4_chr12_58143114_22_-_A1_GSP2	ggaccctcctgaccagagttct	1.0	true	SNV,CNV		
+CDK4	NM_000075	7						tile	5	58142814	58142836	CDK4_chr12_58142814_22_+_A1_GSP1	tctgtgggtggctatttgcagc	1.0	true	58142890	58142911	CDK4_chr12_58142890_21_+_A1_GSP2	agggccctgcatactgctcta	1.0	true	SNV		

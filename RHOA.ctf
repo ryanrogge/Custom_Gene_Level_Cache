@@ -1,0 +1,4 @@
+RHOA	NM_001664	2						tile	3	49413071	49413098	RHOA_chr3_49413071_27_-_A1_GSP1	aaagcatgtgtcatcctgtaagctacc	1.0	true	49413046	49413073	RHOA_chr3_49413046_27_-_A1_GSP2	cctatgacttcttgtgcattgcaggta	1.0	true	SNV		
+RHOA	NM_001664	2						tile	5	49412708	49412735	RHOA_chr3_49412708_27_+_A1_GSP1	acaaacttggactaagatggcaggatg	1.0	true	49412728	49412758	RHOA_chr3_49412728_30_+_A1_GSP2	caggatgagaatggattcttctttccaaca	1.0	true	SNV		
+RHOA	NM_001664	3						tile	3	49406047	49406078	RHOA_chr3_49406047_31_-_A1_GSP1	ggtctgccatttcaatgtactatggtaagtg	1.0	true	49406041	49406073	RHOA_chr3_49406041_32_-_A1_GSP2	gccatttcaatgtactatggtaagtgtcactt	1.0	true	SNV		
+RHOA	NM_001664	3						tile	5	49405779	49405802	RHOA_chr3_49405779_23_+_A1_GSP1	tttcagccacttgatgcccagaa	1.0	true	49405811	49405835	RHOA_chr3_49405811_24_+_A1_GSP2	caactagctacacaggcagtgaca	1.0	true	SNV		
